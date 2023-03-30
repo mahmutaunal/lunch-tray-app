@@ -26,3 +26,22 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+Screenshots
+---------------
+
+[<img src="/screenshots/Screenshot_20230330_130026.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_130026.png)
+[<img src="/screenshots/Screenshot_20230330_130047.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_130047.png)
+[<img src="/screenshots/Screenshot_20230330_130056.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_130056.png)
+[<img src="/screenshots/Screenshot_20230330_130112.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_130112.png)
+[<img src="/screenshots/Screenshot_20230330_130121.png" align="center"
+width="200"
+    hspace="10" vspace="10">](/screenshots/Screenshot_20230330_130121.png)  
